@@ -4,7 +4,7 @@
 
 Made a Drinkshub application which allows users to interact with an Ethereum smart contract to manage their account, balance, and perform various transactions using custom tokens. 
 
-##How to run?
+## How to run?
 
 After cloning the github, you will be doing the following steps to get the code running on your computer.
 
@@ -19,18 +19,18 @@ Typically at http://localhost:3000/
 
 On the frontend I have made "Drinkshub" you will be going to interact with various components used here and withdraw, deposit eth from metamask wallet.
 
-###Deposit
+### Deposit
 
 You will be depositing the eth here from metamask wallet
-###Withdraw
+### Withdraw
 You will be withdrawing the eth here from metamask wallet
-###HandleBurn
+### HandleBurn
 You will be burning the tokens here from metamask wallet
 
-##Author
+## Author
 Nisha-nishaneha924@gmail.com
 
-##License
+## License
 This project is licensed under the MIT License-see the License.md file for details.
 
 
